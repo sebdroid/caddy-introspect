@@ -18,7 +18,7 @@ xcaddy build --with github.com/sebdroid/caddy-introspect
 ```
 
 > [!IMPORTANT]
-> Requires Caddy v2.11.3 or newer - the oldest release this module is tested against that has no known vulnerabilities in its dependencies. Building with any newer Caddy works automatically: Go always selects the newer of your Caddy version and this minimum.
+> Requires Caddy v2.11.4 or newer - the oldest release this module is tested against that has no known vulnerabilities in its dependencies. Building with any newer Caddy works automatically: Go always selects the newer of your Caddy version and this minimum.
 
 ## Sample Caddyfile
 
