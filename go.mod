@@ -1,13 +1,13 @@
 module github.com/sebdroid/caddy-introspect
 
-go 1.25.8
+go 1.26.0
 
 require (
 	github.com/caddyserver/caddy/v2 v2.11.4
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/stretchr/testify v1.11.1
 	go.uber.org/zap v1.28.0
-	golang.org/x/sync v0.21.0
+	golang.org/x/sync v0.23.0
 )
 
 require (
